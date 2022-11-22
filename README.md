@@ -1,6 +1,6 @@
 # Master Machine Learning with Python
 
-This repository contains some notes and exercises solutions for the following books:
+This repository contains notes and exercises solutions for the following books:
 
 * Introduction to Statistical Learning
 
